@@ -56,3 +56,5 @@ Q.idea/sonarlint/securityhotspotstore/4/9/496a238a6afa168dbaf6efd37bb45933158957
 .src/main/kotlin/leetcode/ValidParentheses.java,1/3/131aa8f892d2a9c11c66e4710840d7b9eb53db15
 W
 'src/main/kotlin/leetcode/MaxProfit.java,6/5/6502ad660cbd255cdbf963ebd68506f80b1db67b
+X
+(src/main/kotlin/leetcode/moveZeroes.java,a/6/a62d521e01718b0b51fc0fbb97a3097fca95f708
