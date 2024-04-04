@@ -52,3 +52,5 @@ Q.idea/sonarlint/securityhotspotstore/0/2/02ddf5725f2ec9b67991423205d2b1a2009ccd
 Q.idea/sonarlint/securityhotspotstore/7/e/7ec68e89be13608e61bcba6b38b03b9b5c615689,6/1/6146b9efaa9cbe57a9a6afbf9dac0c72b622325b
 Å
 Q.idea/sonarlint/securityhotspotstore/4/9/496a238a6afa168dbaf6efd37bb459331589579c,b/0/b0bb0a26d88d16d2e82502fe47e034e248a527a2
+^
+.src/main/kotlin/leetcode/ValidParentheses.java,1/3/131aa8f892d2a9c11c66e4710840d7b9eb53db15
